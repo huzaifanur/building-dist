@@ -2,4 +2,4 @@ Location-1: 31.4809934381632, 74.32902473910283
 Location-2: 31.4786148333528, 74.32206404944986
 Location-3: 31.49128667559136, 74.31378179224834
 
-Tip : I am using thunder Clien VsCode extention.
+Tip : I am using thunder Client VsCode extention .
